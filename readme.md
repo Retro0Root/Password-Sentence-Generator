@@ -15,4 +15,8 @@ You can launch the script without or with arguments, here is the list :
 - `-a yes` to generate a password from dictionary
 - `-a no` to generate a password from a sentence you write
 
+## How to run the script :
+
+`python3 main.py -a <YES:NO>` 
+
 Enjoy ! 
